@@ -1,13 +1,13 @@
 # 👋 ¡Hola! Soy Juan Antonio  
 💻 **Desarrollador Backend | Java | Spring Boot | Python | Django**  
-⚡ Interesado en **Kafka**, **Arduino** y desarrollo web  
+⚡ Interesado en **Python**, **Java**, **Arduino** y **Desarrollo web**  
 🎯 Buscando oportunidades en **empresas tecnológicas con teletrabajo**  
 
 ## 📌 Tecnologías y herramientas  
 💾 **Backend:** Java (Spring Boot), Python (Django)  
-🛠 **Bases de datos:** PostgreSQL, MySQL, MongoDB  
-🔗 **Mensajería:** Kafka  
-🌍 **Infraestructura:** Docker, Kubernetes  
+🛠 **Bases de datos:**  MySQL, OracleSQL 
+🔗 **Mensajería:** MQ 
+
 
 ## 🚀 Proyectos destacados  
 🔹 [**TecnoFind**]([https://github.com/Dragonf-j/NOMBRE_DEL_REPO](https://github.com/Dragonf-j/TecnoFind)) - TecnoFind es una aplicación web diseñada para ayudar a los usuarios a encontrar la mejor tecnologia según sus necesidades y preferencias.   
