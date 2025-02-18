@@ -14,9 +14,9 @@
 
 ## 📊 Estadísticas de GitHub  
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Dragonf-j&theme=radical)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Dragonf-j&theme=radical)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Dragonf-j&theme=radical)  ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Dragonf-j&show_icons=true&theme=radical)  
 ![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=Dragonf-j&layout=compact&theme=radical)  
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Dragonf-j&show_icons=true&theme=radical)  
+
 
 ## 🌍 Encuéntrame en  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-antonio-martin-pichardo-a85756177/)  
